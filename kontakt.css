@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(255, 192, 96);
+}
+header{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 2.3rem;}
+
+    a{
+        text-decoration: none;
+        font-size: 1.5rem;
+        color: white;
+    }
+    
+    a:hover{
+        text-decoration: underline;
+        font-size: larger}
+
+        .huh{
+            font-weight: normal;
+font-size: 1.9rem;
+color: white;
+background-color: black;
+        }
+        footer{ color: white;
+            background-color: black;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+            font-size: 2rem;}
+            .da{text-decoration: underline;
+ font-size: 2rem;
+ color: black;           
+            }
